@@ -1,0 +1,22 @@
+{
+  "name": "vuln-scan-demo",
+  "version": "1.0.0",
+  "description": "vulnerability scanning demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreDalcher/vuln-scan-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreDalcher/vuln-scan-demo/issues"
+  },
+  "homepage": "https://github.com/AndreDalcher/vuln-scan-demo#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
