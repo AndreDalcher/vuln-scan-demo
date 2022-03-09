@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AndreDalcher/vuln-scan-demo#readme",
   "dependencies": {
-    "uuid": "^3.3.2"
+    "uuid": "^3.4.0"
   }
 }
